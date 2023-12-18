@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 30%;
+}
+.available-items h2 {
+  margin-bottom: 20px;
+}
+.shopping-cart h2 {
+  margin-bottom: 20px;
+}
+ul li {
+  font-size: 18px;
+  list-style: none;
+  padding: 10px 10px;
+}

@@ -1,0 +1,23 @@
+.Footer{
+    margin-top: 10px;
+    border: 1px solid rgb(0,0,0,0.1);
+    border-radius: 5px;
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 15px;
+}
+.action{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+.action button{
+    margin-bottom: 10px;
+}
+.filter{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}

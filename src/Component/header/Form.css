@@ -1,0 +1,11 @@
+.todoList{
+    text-align: center;
+}
+
+.input-todo{
+    width: 800px;
+    padding: 10px;
+    border: 1px solid rgb(0, 0, 0,0.2);
+    border-radius: 5px;
+    font-size: 18px;
+}
